@@ -4,7 +4,8 @@
     using System.Xml.Schema;
     public sealed class XsdValidator
     {
-        private const string Pacs008Namespace = "urn:iso:std:iso:20022:tech:xsd:pacs.008.001.08";
+
+        private const string Pacs008Namespace = "urn:iso:std:iso:20022:tech:xsd:pacs.008.001.14";
 
         private readonly XmlSchemaSet _schemas;
         private readonly ILogger<XsdValidator> _logger;
