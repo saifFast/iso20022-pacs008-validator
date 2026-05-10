@@ -1,9 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
-namespace Pacs008_Validator.Controllers
+﻿namespace Pacs008_Validator.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
-    using Pacs008_Validator.Application.Validation;
 
     [ApiController]
     [Route("api/validation")]

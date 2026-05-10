@@ -1,4 +1,4 @@
-﻿namespace Pacs008_Validator.Application.Validation
+﻿namespace Pacs008_Validator
 {
     using System.Xml;
     using System.Xml.Schema;

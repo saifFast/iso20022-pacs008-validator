@@ -1,4 +1,4 @@
-using Pacs008_Validator.Application.Validation;
+using Pacs008_Validator;
 
 var builder = WebApplication.CreateBuilder(args);
 
