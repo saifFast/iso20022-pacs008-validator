@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacs008-Validator", "Pacs008-Validator.csproj", "{06D02B04-49F0-4D30-AB5D-F22B7E7A8EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D02B04-49F0-4D30-AB5D-F22B7E7A8EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D02B04-49F0-4D30-AB5D-F22B7E7A8EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D02B04-49F0-4D30-AB5D-F22B7E7A8EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D02B04-49F0-4D30-AB5D-F22B7E7A8EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64563179-4C3C-435D-AAAF-ED508E4730AD}
+	EndGlobalSection
+EndGlobal
